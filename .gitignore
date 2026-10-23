@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Captures, logs, and measurement output
+*.pcap
+*.pcapng
+*.csv
+*.log
+
+# Driver builds and downloads
+wlansetup/
+*.ko
+*.o
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Deliverables built locally
+*.zip
+*.mp4
+*.mov
